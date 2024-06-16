@@ -1,8 +1,16 @@
-# React + Vite
+# Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🍿 **movieapi** is a simple React app for browsing and managing your movie collection. It allows users to search for movies, view a list of movies, and keep track of the movies they have watched with detailed statistics.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Search Movies**: Search for movies by title.
+- **View Movie List**: View a list of movies with details like poster, title, and release year.
+- **Watched Movies Summary**: View a summary of watched movies including average ratings and runtime.
+- **Responsive Design**: Mobile-friendly design for better user experience.
+
+## Installation
+
+
+
